@@ -51,9 +51,12 @@ console.log(fullName)
 const SERVER_PASSWORD ="sdljfljsfiosjisd";
 console.log(SERVER_PASSWORD)
 
+/*
 SERVER_PASSWORD = "1234"
 console.log(SERVER_PASSWORD)
 
+constla tanımladığın bilgiyi değiştiremezsin
 
-
+*/
 // const ile degisken tanimlamak
+
