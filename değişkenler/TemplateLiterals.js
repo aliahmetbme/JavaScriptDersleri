@@ -24,7 +24,7 @@ console.log(info)
 
 info = 
 
-`Merhaba ${userName} sitemize hoşgeldin. mail adresin : ${email} \n
+`Merhaba ${userName} sitemize hoşgeldin. mail adresin : ${email}
 
 mail adresinin uzunluğu ${email.length}
 
@@ -41,4 +41,4 @@ console.log(info)
 
 document.write(info) 
 
-console.log(typeof(info))
+console.log(typeof(info)) // string
