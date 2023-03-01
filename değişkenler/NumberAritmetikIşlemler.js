@@ -9,7 +9,7 @@ let totalPrice = price + priceTax
 
 console.log
 (
-    "  KDV ORANI :", tax ,
+    " KDV ORANI :", tax ,
     "\n KDV TUTARI :", priceTax,
     "\n FIYAT :", totalPrice                
 )
@@ -112,4 +112,4 @@ console.log("Yukari Yuvarlama: " , Math.ceil(1.9)) // --> 2
 
 
 // yakına yuvarlama islemi -- Math.round
-console.log("Yakında Yuvarlama " , Math.round(1,2)) // --> 1
+console.log("Yakinda Yuvarlama " , Math.round(1,2)) // --> 1
