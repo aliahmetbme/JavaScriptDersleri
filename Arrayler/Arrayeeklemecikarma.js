@@ -57,3 +57,9 @@ var sports = ['basketball', 'football', 'tennis' ];
 console.log(sports); // basketball, football, tennis
 sports.splice(1,1); // kaçıncı indexten başlayıp silinecek indexleri siler
 console.log(sports); // basketball, tennis
+
+
+var sports = ['basketball', 'football', 'tennis' ];
+console.log(sports); // basketball, football, tennis
+sports.splice(1,0,'baseball'); // bu da ekliyor çift fonksiyonlu bir metod
+console.log(sports); // basketball, baseball, football, tennis
