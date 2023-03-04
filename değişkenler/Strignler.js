@@ -58,4 +58,6 @@ console.log(email.search("x")) // -1
 
 
 // istediğinle başlayıo bittiğini kontrol etmek --> startsWidth, endsWidth 
-console.log(kodluyoruz.endsWith('kodluyoruz.org'))
+console.log(kodluyoruz.endsWith('kodluyoruz.org')) // true
+
+lastName = `${lastName[0].toUpperCase()}${lastName.slice(1).toLowerCase()}` //Bootcamp
